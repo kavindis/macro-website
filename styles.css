@@ -1,0 +1,46 @@
+#title{
+    color:blue;
+
+}
+#main-title{
+    color: red;
+    text-align:center
+
+}
+#title-f{
+    color:brown;
+}
+table{
+    border:1px solid brown;
+    border-collapse: collapse;
+}
+td{
+    border:1px solid black;
+    padding: 6px;
+}
+th{
+    border:1px solid black ;
+    padding: 6px;
+}
+#title-g{
+    color:brown;
+}
+#title-k{
+    color: brown;
+}
+
+ul il {
+    color: brown bro
+}
+#about-me{
+    background-color:peachpuff;
+}
+#My-hobbies{
+    background-color: red;
+}
+button{
+    background-color: plum;
+}
+#u{
+    undarline-color:red;
+}
